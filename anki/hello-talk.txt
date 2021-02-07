@@ -1,8 +1,15 @@
-binge 	[bɪndʒ] 	:	1.명사 (특히 음식을 먹거나 술을 마시며) 한동안 흥청망청하기, 폭음[폭식]하기 to go on a binge  흥청망청 먹고 마시다  2.동사 폭식[폭음]하다 When she’s depressed she binges on chocolate.  그녀는 우울하면 초콜릿을 폭식한다.
-prem·ise 	[ˈpremɪs] 	:	1.명사 (주장의) 전제 the basic premise of her argument  그녀 주장의 기본 전제
-vague 	[veɪɡ] 	:	1.형용사 (기억 등이) 희미한[어렴풋한] to have a vague impression/memory/recollection of sth  …에 대해 어렴풋한 인상을 갖고 있다/희미하게 기억하다/회상하다  2.형용사 모호한, 애매한 She’s a little vague about her plans for next year.  그녀는 내년 계획이 좀 모호하다.  3.형용사 멍청한, 얼빠진 것 같은 His vague manner concealed a brilliant mind.  그의 얼빠진 것 같은 태도는 그의 뛰어난 지성을 감추고 있었다.
-con·tem·por·ary 	[kən|tempəreri] 	:	1.형용사 동시대의 We have no contemporary account of the battle.  그 전투에 대한 동시대의 기록은 없다.  2.형용사 현대의, 당대의 life in contemporary Britain  현대 영국에서의 삶  3.명사 (어떤 사람과) 동년배[동시대인] She and I were contemporaries at college.  그녀와 나는 대학을 같은 시기에 다녔다.
+binge 	[bɪndʒ] 	:	1.명사 (특히 음식을 먹거나 술을 마시며) 한동안 흥청망청하기, 폭음[폭식]하기 to go on a binge  흥청망청 먹고 마시다  2.동사 폭식[폭음]하다 When she’s depressed she binges on chocolate.  그녀는 우울하면 초콜릿을 폭식한다.
+prem·ise 	[ˈpremɪs] 	:	1.명사 (주장의) 전제 the basic premise of her argument  그녀 주장의 기본 전제
+vague 	[veɪɡ] 	:	1.형용사 (기억 등이) 희미한[어렴풋한] to have a vague impression/memory/recollection of sth  …에 대해 어렴풋한 인상을 갖고 있다/희미하게 기억하다/회상하다  2.형용사 모호한, 애매한 She’s a little vague about her plans for next year.  그녀는 내년 계획이 좀 모호하다.  3.형용사 멍청한, 얼빠진 것 같은 His vague manner concealed a brilliant mind.  그의 얼빠진 것 같은 태도는 그의 뛰어난 지성을 감추고 있었다.
+con·tem·por·ary 	[kən|tempəreri] 	:	1.형용사 동시대의 We have no contemporary account of the battle.  그 전투에 대한 동시대의 기록은 없다.  2.형용사 현대의, 당대의 life in contemporary Britain  현대 영국에서의 삶  3.명사 (어떤 사람과) 동년배[동시대인] She and I were contemporaries at college.  그녀와 나는 대학을 같은 시기에 다녔다.
 national athletic 		:	1. 국가대표
-ath·lete 	[ˈæθliːt] 	:	1.명사 (운동)선수 Olympic athletes  올림픽 참가 선수  2.명사 육상 경기 선수 3.명사 운동을 잘 하는 사람, 운동선수 She is a natural athlete.  그녀는 타고난 운동선수이다.
-na·tion·al 	[ˈnæʃnəl] 	:	1.형용사 국가의, 전국적인; 전 국민의 national and local newspapers  전국지 및 지방지  2.형용사 국가 소유의, 국립의, 국영의 a national airline / museum / theatre  국영 항공사/국립 박물관/국립 극장  3.명사 (특정 국가의) 국민[시민] (한 사람) Polish nationals living in Germany  독일에 사는[재독] 폴란드 국민들
-naive 	[naɪˈiːv] 	:	1.형용사 (경험·지식 부족 등으로) 순진해 빠진, (모자랄 정도로) 순진한 to be politically naive  정치적으로 순진해 빠졌다[모자라다]  2.형용사 순진무구한 Their approach to life is refreshingly naive.  삶에 대한 그들의 접근법은 신선할 정도로 순진무구하다.  3.형용사 천진난만한 스타일의
+ath·lete 	[ˈæθliːt] 	:	1.명사 (운동)선수 Olympic athletes  올림픽 참가 선수  2.명사 육상 경기 선수 3.명사 운동을 잘 하는 사람, 운동선수 She is a natural athlete.  그녀는 타고난 운동선수이다.
+na·tion·al 	[ˈnæʃnəl] 	:	1.형용사 국가의, 전국적인; 전 국민의 national and local newspapers  전국지 및 지방지  2.형용사 국가 소유의, 국립의, 국영의 a national airline / museum / theatre  국영 항공사/국립 박물관/국립 극장  3.명사 (특정 국가의) 국민[시민] (한 사람) Polish nationals living in Germany  독일에 사는[재독] 폴란드 국민들
+naive 	[naɪˈiːv] 	:	1.형용사 (경험·지식 부족 등으로) 순진해 빠진, (모자랄 정도로) 순진한 to be politically naive  정치적으로 순진해 빠졌다[모자라다]  2.형용사 순진무구한 Their approach to life is refreshingly naive.  삶에 대한 그들의 접근법은 신선할 정도로 순진무구하다.  3.형용사 천진난만한 스타일의
+honey·moon 	[ˈhʌnimuːn] 	:	1.명사 신혼여행 We went to Venice for our honeymoon.  우리는 신혼여행을 베니스로 갔다.  2.명사 (초기의) 우호적 관계 (기간) The honeymoon period for the government is now over.  정부의 우호적 관계 기간은 이제 끝났다.  3.동사 신혼여행을 하다
+ten·der·loin 	[|tendərlɔɪn] 	:	1. 명사 (쇠고기·돼지고기의) 안심
+ce·leb·rity 	[səˈlebrəti] 	:	1.명사 유명 인사 TV celebrities  텔레비전 유명 연예인들  2.명사 명성 Does he find his new celebrity intruding on his private life?  그가 자신의 새로운 명성이 사생활에 방해가 된다고 생각하나요?
+cooking utensils 		:	요리 기구 
+feed food 		:	음식을 먹이다 
+meal time; chow time		:	식사시간 
+use up 		:	1. 다 써버리다
