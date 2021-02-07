@@ -2,16 +2,16 @@ Hi
 
 By the way, sorry for canceling last week's voice call. 
 
-Because I had to choose where we stay for our honeymoon.
+Because I had to choose where we will stay for our honeymoon.
 
 Oh.. honeymoon 
 
-Honeymoon means, the trip after the wedding right? 
+Honeymoon means the trip after the wedding, right? 
 
 Oh, thank you!
 
-So we decided on three places for our honeymoon. 
-and we had a lot of time to define those places.
+So we selected three places for our honeymoon. 
+and we spent a lot of time to checking out those places.
 
 Define? 
 
@@ -27,15 +27,16 @@ Wow really?
 
 This month? So you started it today? 
 
-Wow, I think you're really hungry right?
+Wow, I think you're really hungry. Am I right?
 
-When I saw your profile, It didn't look fat.
+When I saw your profile picture, you didn't look fat.
 
-When I was a high school student, I was really fat. I'm over 100 kilograms. So I know that skipping a meal is really painful. 
+When I was a high school student, I was really fat. I was over 100 kilograms. So I know that skipping a meal could be really tough. 
+So It's going to work.
 
 How about doing home training? instead of skipping meals.
 
-I think it's nice. You did work out at home and control your eating habit. It's gonna be work.
+I think it's nice. You are working out at home and controlling your eating habits. It's gonna be work.
 
 How can I translate "힘내세요"?
 
@@ -43,9 +44,9 @@ Cheer up and you can do it? Thank you.
 
 I had my meal before this conversation.
 
-I ate pigs feet. 
+I ate pigs' feet. 
 
-What does it mean 'pork cut'?
+What does it mean 'pork cuts'?
 
 That means so many parts of pigs right?
 
@@ -59,7 +60,7 @@ So, I ate pork legs with rice. Also, I cooked a simple dish.
 
 Yeah, I love cooking.
 
-In Korea, there is a lot of people who love cooking. I mean, male. 
+In Korea, there are a lot of people who love cooking. I mean, male. 
 And my friends love cooking too.
 But he is better than me. Because he uses various types of cooking utensils such as an oven and a steamer.
 
@@ -67,9 +68,9 @@ Do you like cooking?
 
 That's nice. When I go to my parent's house, My mother used to cook. So I can have more free time. 
 
-Not really. When I go to work, the company provides food for every meal times.
+Not really. When I go to work, the company provides food for every meal.
 
-But I used to have dinner with my girlfriend at home. 
+But I usually have dinner with my girlfriend at home. 
 
 Cooking is good but there is a little problem.
-Cooking spend my time. So on weekdays, I only cook a simple dish. At weekend, I can cook something to spend more my time such as steaks or stew.
+Cooking uses up my time. So on weekdays, I only cook simple dishes. On weekends, I can cook something that requires more time such as steaks or stew.
