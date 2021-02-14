@@ -1,15 +1,25 @@
-binge 	[bɪndʒ] 	:	1.명사 (특히 음식을 먹거나 술을 마시며) 한동안 흥청망청하기, 폭음[폭식]하기 to go on a binge  흥청망청 먹고 마시다  2.동사 폭식[폭음]하다 When she’s depressed she binges on chocolate.  그녀는 우울하면 초콜릿을 폭식한다.
-prem·ise 	[ˈpremɪs] 	:	1.명사 (주장의) 전제 the basic premise of her argument  그녀 주장의 기본 전제
-vague 	[veɪɡ] 	:	1.형용사 (기억 등이) 희미한[어렴풋한] to have a vague impression/memory/recollection of sth  …에 대해 어렴풋한 인상을 갖고 있다/희미하게 기억하다/회상하다  2.형용사 모호한, 애매한 She’s a little vague about her plans for next year.  그녀는 내년 계획이 좀 모호하다.  3.형용사 멍청한, 얼빠진 것 같은 His vague manner concealed a brilliant mind.  그의 얼빠진 것 같은 태도는 그의 뛰어난 지성을 감추고 있었다.
-con·tem·por·ary 	[kən|tempəreri] 	:	1.형용사 동시대의 We have no contemporary account of the battle.  그 전투에 대한 동시대의 기록은 없다.  2.형용사 현대의, 당대의 life in contemporary Britain  현대 영국에서의 삶  3.명사 (어떤 사람과) 동년배[동시대인] She and I were contemporaries at college.  그녀와 나는 대학을 같은 시기에 다녔다.
+binge 	[bɪndʒ] 	:	1.명사 (특히 음식을 먹거나 술을 마시며) 한동안 흥청망청하기, 폭음[폭식]하기to go on a binge흥청망청 먹고 마시다2.동사 폭식[폭음]하다When she’s depressed she binges on chocolate.그녀는 우울하면 초콜릿을 폭식한다.
+prem·ise 	[ˈpremɪs] 	:	1.명사 (주장의) 전제the basic premise of her argument그녀 주장의 기본 전제
+vague 	[veɪɡ] 	:	1.형용사 (기억 등이) 희미한[어렴풋한]to have a vague impression/memory/recollection of sth…에 대해 어렴풋한 인상을 갖고 있다/희미하게 기억하다/회상하다2.형용사 모호한, 애매한She’s a little vague about her plans for next year.그녀는 내년 계획이 좀 모호하다.3.형용사 멍청한, 얼빠진 것 같은His vague manner concealed a brilliant mind.그의 얼빠진 것 같은 태도는 그의 뛰어난 지성을 감추고 있었다.
+con·tem·por·ary 	[kən|tempəreri] 	:	1.형용사 동시대의We have no contemporary account of the battle.그 전투에 대한 동시대의 기록은 없다.2.형용사 현대의, 당대의life in contemporary Britain현대 영국에서의 삶3.명사 (어떤 사람과) 동년배[동시대인]She and I were contemporaries at college.그녀와 나는 대학을 같은 시기에 다녔다.
 national athletic 		:	1. 국가대표
-ath·lete 	[ˈæθliːt] 	:	1.명사 (운동)선수 Olympic athletes  올림픽 참가 선수  2.명사 육상 경기 선수 3.명사 운동을 잘 하는 사람, 운동선수 She is a natural athlete.  그녀는 타고난 운동선수이다.
-na·tion·al 	[ˈnæʃnəl] 	:	1.형용사 국가의, 전국적인; 전 국민의 national and local newspapers  전국지 및 지방지  2.형용사 국가 소유의, 국립의, 국영의 a national airline / museum / theatre  국영 항공사/국립 박물관/국립 극장  3.명사 (특정 국가의) 국민[시민] (한 사람) Polish nationals living in Germany  독일에 사는[재독] 폴란드 국민들
-naive 	[naɪˈiːv] 	:	1.형용사 (경험·지식 부족 등으로) 순진해 빠진, (모자랄 정도로) 순진한 to be politically naive  정치적으로 순진해 빠졌다[모자라다]  2.형용사 순진무구한 Their approach to life is refreshingly naive.  삶에 대한 그들의 접근법은 신선할 정도로 순진무구하다.  3.형용사 천진난만한 스타일의
-honey·moon 	[ˈhʌnimuːn] 	:	1.명사 신혼여행 We went to Venice for our honeymoon.  우리는 신혼여행을 베니스로 갔다.  2.명사 (초기의) 우호적 관계 (기간) The honeymoon period for the government is now over.  정부의 우호적 관계 기간은 이제 끝났다.  3.동사 신혼여행을 하다
+ath·lete 	[ˈæθliːt] 	:	1.명사 (운동)선수Olympic athletes올림픽 참가 선수2.명사 육상 경기 선수3.명사 운동을 잘 하는 사람, 운동선수She is a natural athlete.그녀는 타고난 운동선수이다.
+na·tion·al 	[ˈnæʃnəl] 	:	1.형용사 국가의, 전국적인; 전 국민의national and local newspapers전국지 및 지방지2.형용사 국가 소유의, 국립의, 국영의a national airline / museum / theatre국영 항공사/국립 박물관/국립 극장3.명사 (특정 국가의) 국민[시민] (한 사람)Polish nationals living in Germany독일에 사는[재독] 폴란드 국민들
+naive 	[naɪˈiːv] 	:	1.형용사 (경험·지식 부족 등으로) 순진해 빠진, (모자랄 정도로) 순진한to be politically naive정치적으로 순진해 빠졌다[모자라다]2.형용사 순진무구한Their approach to life is refreshingly naive.삶에 대한 그들의 접근법은 신선할 정도로 순진무구하다.3.형용사 천진난만한 스타일의
+honey·moon 	[ˈhʌnimuːn] 	:	1.명사 신혼여행We went to Venice for our honeymoon.우리는 신혼여행을 베니스로 갔다.2.명사 (초기의) 우호적 관계 (기간)The honeymoon period for the government is now over.정부의 우호적 관계 기간은 이제 끝났다.3.동사 신혼여행을 하다
 ten·der·loin 	[|tendərlɔɪn] 	:	1. 명사 (쇠고기·돼지고기의) 안심
-ce·leb·rity 	[səˈlebrəti] 	:	1.명사 유명 인사 TV celebrities  텔레비전 유명 연예인들  2.명사 명성 Does he find his new celebrity intruding on his private life?  그가 자신의 새로운 명성이 사생활에 방해가 된다고 생각하나요?
+ce·leb·rity 	[səˈlebrəti] 	:	1.명사 유명 인사TV celebrities텔레비전 유명 연예인들2.명사 명성Does he find his new celebrity intruding on his private life?그가 자신의 새로운 명성이 사생활에 방해가 된다고 생각하나요?
 cooking utensils 		:	요리 기구 
 feed food 		:	음식을 먹이다 
 meal time; chow time		:	식사시간 
 use up 		:	1. 다 써버리다
+rev·enue 	[|revənuː] 	:	1.명사 (정부·기관의) 수익[수입/세입] a shortfall in tax revenue  세입상의 적자
+sweep·er 	[ˈswiːpə(r)] 	:	1.명사 청소부 a road sweeper  거리 청소부  2.명사 청소기 a carpet sweeper  카펫 청소기  3.명사 스위퍼(가장 뒤쪽을 방어하는 수비수)
+muscle 	[ˈmʌsl] 	:	1.명사 근육 a calf/neck/thigh muscle  종아리/목/넓적다리 근육  2.명사 (육체적인) 힘, 근력 He’s an intelligent player but lacks the muscle of older competitors.  그는 영리한 선수지만 나이가 더 많은 경쟁자들이 지니고 있는 힘이 부족하다.  3.명사 (요구나 주장에 따르도록 하는) 압력 to exercise political/industrial/financial muscle  정치적/산업상의/재정적 압력을 행사하다
+busi·ness 	[ˈbɪznəs] 	:	1.명사 사업, 상업, 장사 business contacts / affairs / interests  사업상의 인맥/일/사업가들  2.명사 (직장의) 일, 업무 Is the trip to Rome business or pleasure?  로마 여행은 출장이세요 아니면 관광차 가세요?  3.명사 (회사 등의) 사업[영업] (실적) Business was bad.  사업이 잘 안 되고 있었다.
+give it a burl 		:	1.한번 해보다 Jane gave it a burl on riding a bike.  제인은 자전거 타는 것을 한번 해보았다.
+as in 		:	1.…의 경우(에서)와 같이 In business, as in nature, survival depends on the ability to adapt quickly to sudden changes.  자연에서와 마찬가지로 비즈니스에서도 살아남기 위해서는 갑작스러운 변화에 재빨리 적응할 수 있는 능력이 필요하다.
+in use 		:	1. 쓰이고 있는
+ever 	[ˈevə(r)] 	:	1.부사 <부정문이나 의문문 또는 if가 쓰인 문장에서 ‘at any time (어느 때고/언제든/한번이라도)’의 뜻을 나타냄> Nothing ever happens here.  여기에서는 (한번도) 무슨 일이 생기는 법이 없다.  2.부사 <비교급·최상급의 의미를 강조함> It was raining harder than ever.  그 어느 때보다 심하게 비가 내리고 있었다.  3.부사 언제나, 항상 Paul, ever the optimist, agreed to try again.  언제나 낙천주의자인 폴은 다시 해 보겠다고 했다.
+nei·ther 	[ˈnaɪðə(r); ˈniːðə(r)] 	:	1.한정사, 대명사 (둘 중) 어느 것도 …아니다 Neither answer is correct.  어느 대답도 옳지 않다.  2.부사 (부정문을 만들며) …도 마찬가지이다[그렇다] He didn’t remember and neither did I.  그는 기억하지 못했고 나도 마찬가지였다.  3.부사 …도 아니고 …도 아니다 I neither knew nor cared what had happened to him.  나는 그에게 무슨 일이 있었는지 알지도 못했고 알고 싶지도 않았다.
+burl 		:	1.명사 시도, 해보기 give it a burl  한번 해보다
