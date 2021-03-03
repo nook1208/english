@@ -12,3 +12,9 @@
 014. We're looking to ~  
 015. Are you going to ~  
 016. Are you done with ~
+
+## 2021-03-03 Wednesday
+017. Are you happy with ~
+018. Are you ready to / for ~
+019. Are you interested in ~
+020. Are you saying that ~
