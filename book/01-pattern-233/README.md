@@ -18,3 +18,9 @@
 018. Are you ready to / for ~
 019. Are you interested in ~
 020. Are you saying that ~
+
+## 2021-03-07 Sunday
+021. Can I have ~
+022. Can I get you ~
+023. Can I take ~
+024. Can I ask you to ~
