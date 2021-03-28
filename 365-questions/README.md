@@ -21,5 +21,21 @@ Yes I have. A few days ago, I made invitation for my wedding with my girlfriend.
 When I was a student, I made a algorithm club with my friends. So I used to teaching algorithm and problem solving methods to my juniors. They were my juniors and time goes by, they got a job.
 It was so good to meet them. Plus, I bought tailor-made suits to my father and my brother. It was so proud that I could do it for them.
 
+## Q17. What does your joy look like today?
+I used to analyze some stocks these days. It was really fun. When I was reading a book about stocks, It became a little bit bored. 
+But I analyzed stocks with what I studied,  It was more interesting than reading comic books and It was hard to resist the desire to invest right away.
+I finish reading the book recently, So I'm now able to analyze stocks. Of course I used to do while reading a book. But now I can send my a lot of time to analyzing it.
+So I'm finding and analyzing stocks whenever I can. Also, I investing to it when I feel that this is a good chance. 
+Actually, I had profit by investing a stock that was soaring at that time. But the profit was really low because I just invested a small amount of money. 
+As I mentioned, the stock was soaring and I felt that was bubble. So I bought that stock and then put selling order. 
+This is the first time that I invested to dangerous stock. But It was quite interesting.
+
+## Q19. If you had a friend who spoke to you in the same way that you sometimes speak to yourself, how long would you allow this person to be your friend?
+I think people don't like person who are similar to themselves unconsciously.
+ I haven't thought about it deeply, maybe It's because they know what the emotion are hidden in other's behave or words.
+For example, there are some moments that they object to other's opinions which are somewhat correct but they don't want to acknowledge.
+So if someone object to my opinion, maybe I feel a little bad. Because I know what emotions are hidden behind that objections.
+But actually, it's really hard title to discuss. Because I don't know why I feel not good sometimes when I saw a person who is really similar to myself.
+
 ## Reference
 https://www.marcandangel.com/2011/03/14/365-thought-provoking-questions-to-ask-yourself-this-year/
