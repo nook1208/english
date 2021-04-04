@@ -37,5 +37,8 @@ For example, there are some moments that they object to other's opinions which a
 So if someone object to my opinion, maybe I feel a little bad. Because I know what emotions are hidden behind that objections.
 But actually, it's really hard title to discuss. Because I don't know why I feel not good sometimes when I saw a person who is really similar to myself.
 
+## Q20. Which activities make you lose track of time?
+There are so many interesting things in the world. The games are especially fun. When I playing Jelda using my nintendo switch, the excitement and addictiveness are so big that I fall into the game. I don't have TV at my home now. If I had it, my game play time would be longer than now. The passage of time are so different by places that I used to spend my time. If I work at my office, the times would be goes by slowly. When I blink my eyes while playing games, my time run away from me. Also, I have one more things that I used to spend my times. It's stock. Although Study the stocks reading books is little bit boaring, my times goes by fastly. But if I see a chart of my stocks, I couldn't notice passage of time. Because I have a lot of things to thinking. For example, I have to think when to buy or sell. Also I should check my principle of investment watching past data.
+
 ## Reference
 https://www.marcandangel.com/2011/03/14/365-thought-provoking-questions-to-ask-yourself-this-year/
