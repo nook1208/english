@@ -46,6 +46,12 @@ Even If I'm rich and also if I have a bad character, I wouldn't have anyone, fri
 So If I end my life, that's not strange. Because man is a social animal, we have to develop our character in the right direction. 
 Actually, If we don't live with someone else forever, we don't have to develop our personality. However we have to live with other people and it's better for themselves.
 
+## Q22. What would you regret not fully doing, being or having in your life?
+I sometimes regret that I didn't think about my career when I was an elementary school student. Of course, that age is too young to even think about it. But It's still sad.
+I started to studying hard when I was 19 years old. Because I want to go to the university. I think It was very late to go to the good university. It's also regretful memory too.
+But there are also good things that I gained from the experience. I always try to look forward to prepare my future. So I can get a good score in my university and get a job before I graduate. 
+I think there are always pros and cons to everything.
+
 
 ## Reference
 https://www.marcandangel.com/2011/03/14/365-thought-provoking-questions-to-ask-yourself-this-year/
