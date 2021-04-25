@@ -1,3 +1,6 @@
+## Q1. When was the last time you tried something new?
+Something new that I tried recently is Hellow talk. I already knew this app but It was uncomfortable to talk to people that I don't know. Now that I've use it, I know it's really good app. Because It has help a lot to learning English via launguage exchange. Also, I gained a lot of motivation to study English. There are so many people who want to learn foreign launguages. It makes me learning English hard. I'm very glad that I had courage to communicate someone that I don't know
+
 ## Q11. Do you think crying is a sign of weakness or strength?
 
 The crying is just result of emotion. It doesn't mean strength or weakness. I don't crying a lot. But it doesn't mean that I'm a strong person. In my opinion, if you want to see who is the strong person or weak person, you see the value or thinking method of the person. For example, if a student who is so poor that he have to part-time job for living still hold his dream and try to keep moving on, He is a strong person.
