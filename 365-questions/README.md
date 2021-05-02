@@ -55,6 +55,11 @@ I started to studying hard when I was 19 years old. Because I want to go to the 
 But there are also good things that I gained from the experience. I always try to look forward to prepare my future. So I can get a good score in my university and get a job before I graduate. 
 I think there are always pros and cons to everything.
 
+## Q24. When you are 80-years-old, what will matter to you the most?
+My answer is simple. Money. If I'm 80 years old, I can't work like now anymore. Therefore, Money is the most important thing if I'm 80 years old.
+My life would be tragic if I didn't have enough money to live on. No matter how much a loved one is around, it will be even more unhappy if she cannot serve a full meal and let her sleep comfortably in a warm house.
+Money is not all of my life, but without it, the reality will affect my personality and eventually lead to unhappy life.
+
 
 ## Reference
 https://www.marcandangel.com/2011/03/14/365-thought-provoking-questions-to-ask-yourself-this-year/
