@@ -60,6 +60,9 @@ My answer is simple. Money. If I'm 80 years old, I can't work like now anymore. 
 My life would be tragic if I didn't have enough money to live on. No matter how much a loved one is around, it will be even more unhappy if she cannot serve a full meal and let her sleep comfortably in a warm house.
 Money is not all of my life, but without it, the reality will affect my personality and eventually lead to unhappy life.
 
+## Q25. When is it time to stop calculating risk and rewards and just do what you know is right?
+I'm always trying to set my plan for a day or week. It makes me spend my time more efficiently. But sometimes I used to be tired of the things that I plan. I know that I have to do something that I planned. However there is the most important thing. It's my health.  Health is my highest priority. Even if I should do something that I planned, I won't do anything if I get stress a lot because of it. I think that people should manage their stress in every day. We can handle it by taking a rest. These days especially I couldn't have enough time to study something because I should prepare my wedding. So I just used to have a break. This is the time that I just do what I know is right. 
+
 
 ## Reference
 https://www.marcandangel.com/2011/03/14/365-thought-provoking-questions-to-ask-yourself-this-year/
